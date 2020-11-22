@@ -1,0 +1,16 @@
+{
+    "bundleId": "com.aeonlucid.discord_canary",
+    "bundleName": "Discord Canary",
+    "bundleDisplayName": "Discord Canary",
+    "plugins": [
+        {
+            "name": "BroadcastUpload.appex",
+            "bundleId": "com.aeonlucid.discord_canary.BroadcastUpload"
+        },
+        {
+            "name": "Share.appex",
+            "bundleId": "com.aeonlucid.discord_canary.Share"
+        }
+    ],
+    "icons": "/Somewhere/Discord/Icons"
+}
